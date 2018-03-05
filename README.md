@@ -5,6 +5,6 @@ or git checkout -b dev
 vim readme.dm xxxx
 git add and git commt
 git checkout master
-git merage dev
+git merge dev
 git branch -d dev
 
